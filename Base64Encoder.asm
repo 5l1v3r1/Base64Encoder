@@ -4,8 +4,10 @@
 ;   /   |   _  \  \  \  _  \    \    /     \  
 ;  /    |___|   \_|\__\_|   \___/___/___|   \ 
 ; /_____|---|____\------|____\----------|____\
-;... WE WILL NEVER STOP LIVING THIS WAY ...
-;        -ENJOY THE POWER OF MY WORK-   
+;   ... I WILL NEVER STOP LIVING THIS WAY ...
+;         -ENJOY THE POWER OF MY WORK- 
+;           -AZIZJON[AT]GMAIL.COM-
+;            -TWITTER: @AZIZJONM-
 
 ; mov  	eax, StreamLen		 ; Размер входных данных
 ;	mov		ecx, 3
